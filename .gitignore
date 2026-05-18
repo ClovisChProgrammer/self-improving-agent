@@ -1,0 +1,21 @@
+# Per-session, per-project — not part of the skill itself
+.learnings/
+
+# Dependencies
+node_modules/
+package.json
+package-lock.json
+bun.lock
+
+# OS artifacts
+Thumbs.db
+.DS_Store
+
+# Local-only sensitive user data (never commit)
+*.local.md
+
+# Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.swo

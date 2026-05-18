@@ -2,9 +2,15 @@
 
 Corrections, insights, and knowledge gaps captured during development.
 
-**Categories**: correction | insight | knowledge_gap | best_practice
-**Areas**: frontend | backend | infra | tests | docs | config
-**Statuses**: pending | in_progress | resolved | wont_fix | promoted | promoted_to_skill
+## Categories
+
+**Technical:** correction | insight | knowledge_gap | best_practice
+
+**Personal/Context:** user_preference | project_context | communication | growth
+
+## Areas
+
+frontend | backend | infra | tests | docs | config | user_preference | project_context | communication | growth
 
 ## Status Definitions
 
@@ -14,7 +20,7 @@ Corrections, insights, and knowledge gaps captured during development.
 | `in_progress` | Actively being worked on |
 | `resolved` | Issue fixed or knowledge integrated |
 | `wont_fix` | Decided not to address (reason in Resolution) |
-| `promoted` | Elevated to CLAUDE.md, AGENTS.md, or copilot-instructions.md |
+| `promoted` | Elevated to SOUL.md, USER.md, AGENTS.md, or CLAUDE.md |
 | `promoted_to_skill` | Extracted as a reusable skill |
 
 ## Skill Extraction Fields
